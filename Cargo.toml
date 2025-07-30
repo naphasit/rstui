@@ -1,0 +1,9 @@
+[package]
+name = "rstui"
+description = "A cross-platform terminal user-interface framework for Rust"
+license = "MIT"
+readme = "README.md"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
